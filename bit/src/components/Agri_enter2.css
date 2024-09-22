@@ -1,0 +1,9 @@
+.top{ 
+    text-align: center;
+    background-color: #54A5BE;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}

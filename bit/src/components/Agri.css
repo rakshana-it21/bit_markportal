@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #54A5BE;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 100;
+}
+.center{
+    padding-top: 80px;
+   
+    
+}
+.t1{
+    margin-left: 400px;
+    margin-top: 100px;
+    margin-right: 100px;
+    padding-right: 100px;
+  }
+
+ul{
+    list-style-type: none;
+}
+li{
+    float:right;
+    margin-right: 20px;
+    padding-left: 10px;
+
+}
+
+table,th,td{
+    border: 2px solid rgb(155, 164, 247);
+    border-collapse: collapse;
+    
+}

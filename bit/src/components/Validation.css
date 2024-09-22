@@ -1,0 +1,152 @@
+.whole{
+  background-color: #b4d4db;
+  
+}
+.entire{
+  position:fixed;
+  padding-left: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 80px;
+  border: 2px solid rgb(138, 129, 129);
+  margin-left: 360px;
+  margin-top: 70px;
+  border-radius: 10px;
+  
+}
+/* .form{
+  text-align: left;
+} */
+.entire:hover{
+  transform: translateY(-5px);
+}
+.headi{
+  text-align: center;
+}
+.logo{
+  border-radius:50%;
+  margin-top: 0px;
+  width: 70px;
+  height: 70px;
+  margin-left: 120px;
+  
+  
+}
+.u2{
+  
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 70px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  display: block;
+  text-align: left;
+  
+}
+
+.p2{
+  
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-right: 70px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  display: block;
+}
+.bu{
+  padding-left: 100px;
+  padding-top: 10px;
+  padding-right: 100px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  background-color: #54A5BE;
+  display: block;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ font-size: larger;
+ text-align: center
+ 
+  
+
+}
+.bu:hover{
+  background-color: #848889;
+  cursor: pointer;
+}
+/* 
+.entire{
+  position: fixed;
+  border-radius: 25px;
+   margin-left: 300px;
+   margin-right: 100px;
+   margin-top:50px;
+   padding-top: 80px;
+   padding-bottom: 20px;
+   
+   padding-left: 0px;
+  padding-right: 0px;
+   background-color: #54A5BE;
+}
+.logo{
+  margin-top: -50px;
+  width:100px;
+  height: 100px;
+ margin-left: 200px;
+  border-radius: 50%;
+}
+.login{
+ 
+
+  margin-right: 250px;
+  margin-top: -10px;
+  margin-left: 180px;
+ 
+  padding-left: 30px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+
+
+
+.u2{
+  display: inline;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+   margin-right: 100px;
+   margin-left: 150px;
+   margin-top: 20px;
+ 
+}
+
+.p2{
+  display: inline;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 100px;
+   margin-left: 150px;
+   margin-top: 20px;
+}
+.bu{
+  cursor: pointer;
+  margin-left: 180px;
+  margin-top: 40px;
+  border-radius: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: antiquewhite;
+  transition: background-color 0.5s ease;
+} */
