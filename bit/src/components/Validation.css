@@ -78,6 +78,12 @@
   background-color: #848889;
   cursor: pointer;
 }
+.loginu {
+  display: flex;
+  align-items: center; /* Align items vertically in the center */
+  gap: 40px; /* Add some space between the text and the link */
+ 
+}
 /* 
 .entire{
   position: fixed;

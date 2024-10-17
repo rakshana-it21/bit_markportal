@@ -16,6 +16,7 @@ import AgriEnglish1 from './components/AgriEnglish1';
 import Agri_Draw from './components/Agri_Draw';
 import Agri_tamil from './components/Agri_tamil';
 import Display1_ag from './components/Display1_ag';
+import Faculty_login from './components/Faculty_login';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Landing/>} />
         <Route path="/Validation" element={<Validation/>}/>
+        <Route path="/Faculty_login" element={<Faculty_login/>}/>
         <Route path="/Department" element={<Department/>}/>
         <Route path="/Agri" element={<Agri/>}/>
         <Route path="/Agrisem" element={<Agri_sem1/>}/>
